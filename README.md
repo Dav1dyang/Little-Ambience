@@ -10,6 +10,8 @@ Little Ambience is a series of speculative household electronics that simulate t
 
 Little Ambience takes the simulation of nature and senses, such as light and smell, to gently decorate a living space with a presence of a place or a person we care about and love. Mirroring the form it takes, Little Ambience interacts passively.
 
+Little Ambience draws inspiration from light and space artists such as James Turrell and Olafur Eliasson, as well as design and material-focused studios like CW&T and Teenage Engineering.
+
 ## Code
 
 The code is only for functionality testing. It is made specifically to run on ESP32 and a custom PCB.
@@ -18,7 +20,7 @@ Right now, the code provided will be able to test out the gradient lights functi
 
 Here are the functions list:
 
-### Day and Night
+### Day and Night (TableTop Light)
 
 | Function                | Done? |
 | ----------------------- | ----- |
@@ -30,7 +32,7 @@ Here are the functions list:
 | Audio Intergration      | No    |
 | Backend Server          | No    |
 
-### Water and Air
+### Water and Air (Humidifier)
 
 | Function              | Done? |
 | --------------------- | ----- |
