@@ -1,6 +1,6 @@
 # Little Ambience
 
-![Tabletop_light](./Photos/Product1-Day_and_Night.jpg)
+![Tabletop_light](./photos/Introduction_slide.png)
 
 A series of speculative products designed by David Yang. For more information, please visit: https://davidyang.work/Little-Ambience-Detail
 
@@ -12,30 +12,30 @@ Little Ambience is a series of speculative household electronics that simulate t
 
 The code is only for functionality testing. It is made specifically to run on ESP32 and a custom PCB.
 
-Right now, the code provided will be able to test out the gradient lights function for the Day & Night light and the mist trigger for the Water & Air humidifier. A few critical steps still need to be taken for it actually to work (Looking for developers to collab!). 
+Right now, the code provided will be able to test out the gradient lights function for the Day & Night light and the mist trigger for the Water & Air humidifier. A few critical steps still need to be taken for it actually to work (Looking for developers to collab!).
 
 Here are the functions list:
 
 ### Day and Night
 
-| Function | Done? |
-| --- | --- |
-| Gradient Color Test | Yes |
-| 24 hours sky color test | No |
-| ESP32 WIFI Connection | No |
-| Weather API Integration | No |
-| Weather Animations | No |
-| Audio Intergration | No |
-| Backend Server | No |
+| Function                | Done? |
+| ----------------------- | ----- |
+| Gradient Color Test     | Yes   |
+| 24 hours sky color test | No    |
+| ESP32 WIFI Connection   | No    |
+| Weather API Integration | No    |
+| Weather Animations      | No    |
+| Audio Intergration      | No    |
+| Backend Server          | No    |
 
 ### Water and Air
 
-| Function | Done? |
-| --- | --- |
-| Mist Trigger Test | Yes |
-| PIR Sensor Test | No |
-| ESP32 WIFI Connection | No |
-| Backend server | No |
+| Function              | Done? |
+| --------------------- | ----- |
+| Mist Trigger Test     | Yes   |
+| PIR Sensor Test       | No    |
+| ESP32 WIFI Connection | No    |
+| Backend server        | No    |
 
 I used chroma.js with glitch to host a simple server to generate gradient values: https://glitch.com/edit/#!/little-ambience-server
 
