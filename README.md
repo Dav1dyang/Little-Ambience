@@ -1,6 +1,6 @@
 # Little Ambience
 
-![Tabletop_light](./Photos/Introduction_slide.png)
+![Tabletop_light](./Photos/Introduction_Slide.png)
 
 A series of speculative products designed by David Yang. For more information, please visit: https://davidyang.work/Little-Ambience-Detail
 
