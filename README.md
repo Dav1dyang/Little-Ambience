@@ -1,5 +1,7 @@
 # Little Ambience
 
+![Tabletop_light](./Photos/Product1-Day_and_Night.jpg)
+
 A series of speculative products designed by David Yang. For more information, please visit: https://davidyang.work/Little-Ambience-Detail
 
 ## Intro
