@@ -10,7 +10,7 @@ Little Ambience is a series of speculative household electronics that simulate t
 
 Little Ambience takes the simulation of nature and senses, such as light and smell, to gently decorate a living space with a presence of a place or a person we care about and love. Mirroring the form it takes, Little Ambience interacts passively.
 
-Little Ambience draws inspiration from light and space artists such as James Turrell and Olafur Eliasson, as well as design and material-focused studios like CW&T and Teenage Engineering.
+The form is inspired by Taiwanese architectural textures such as pressed windows and Terrazzo, as well as the space and light sculptures made by James Turrell.
 
 ## Code
 
