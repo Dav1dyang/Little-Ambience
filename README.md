@@ -8,6 +8,8 @@ A series of speculative products designed by David Yang. For more information, p
 
 Little Ambience is a series of speculative household electronics that simulate the remote presence of people and places without relying on video calls. The series comprises two electronics: a tabletop/wall mount light and a pair of humidifiers. The light, designed to resemble a window, displays the sky from a location where people feel connected. The humidifiers are placed in different locations or homes and activate only when both sense the presence of people in the space.
 
+Little Ambience takes the simulation of nature and senses, such as light and smell, to gently decorate a living space with a presence of a place or a person we care about and love. Mirroring the form it takes, Little Ambience interacts passively.
+
 ## Code
 
 The code is only for functionality testing. It is made specifically to run on ESP32 and a custom PCB.
